@@ -26,7 +26,7 @@ class Message extends Component {
               </div>
             </div>
           </div>
-          <div className="col-xs-11">
+          <div className="col-xs-10">
           {label}
           {this.props.message.subject}
           </div>

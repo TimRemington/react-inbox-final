@@ -170,7 +170,7 @@ class App extends Component {
         <div className="title">
           <h1>Welcome to TimMail! It's like Gmail, but way worse!</h1>
         </div>
-      <div className="App">
+      <div>
         <Toolbar
           toggleAll={this.toggleAll}
           markUnRead={this.markUnRead}
